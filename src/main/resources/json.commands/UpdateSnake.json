@@ -1,0 +1,7 @@
+{
+  "commando": "UpdateSnake",
+  "idSnake": 1234,
+  "name": "Cobra",
+  "color": "Green",
+  "breed": "Reptilian"
+}
